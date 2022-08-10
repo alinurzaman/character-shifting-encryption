@@ -1,2 +1,2 @@
 # character-shifting-encryption
- cryptography character shifting encyption
+ cryptography character shifting encryption
